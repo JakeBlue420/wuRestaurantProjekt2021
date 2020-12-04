@@ -1,0 +1,9 @@
+#wrappermeny {
+    display: grid;
+    height: 100vh;
+ width:100vw ;
+ grid-template-areas: 
+ "he he he he he"
+ "na na na na na"
+ ;
+}
